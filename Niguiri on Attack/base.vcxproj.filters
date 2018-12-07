@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CarregadorDeAssets.cpp" />
+    <ClCompile Include="InputTexto.cpp" />
+    <ClCompile Include="Jogo.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Usuario.cpp" />
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Jogador.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Contas.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Maki_1.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Maki_2.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Maki_3.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Inimigo.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Jogando.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Barco.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CarregadorDeAssets.h" />
+    <ClInclude Include="InputTexto.h" />
+    <ClInclude Include="Jogo.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Usuario.h" />
+    <ClInclude Include="GameObject.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Jogador.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Contas.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Maki_1.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Maki_2.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Maki_3.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Inimigo.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Jogando.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Barco.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Jogo">
+      <UniqueIdentifier>{9874174b-dd35-4542-ac55-5286a3ceb020}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

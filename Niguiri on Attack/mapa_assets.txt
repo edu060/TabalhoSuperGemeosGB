@@ -1,0 +1,2 @@
+3
+fonte Fonte Assets/Fontes/Padrao.ttf 20
